@@ -1,7 +1,5 @@
 .action{$datestr_sy := now | date "2006-01-02"}
-# {: custom-reflection=".action{$datestr_sy}" }
-
-monthly reflection
+# .action{$datestr_sy} ~ monthly
 
 ## make a list of:
 
@@ -11,4 +9,3 @@ monthly reflection
 ### your new passions
 ### your biggest failures or life lessons
 ### your expenditures and what you could spend money on instead
-

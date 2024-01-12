@@ -1,7 +1,5 @@
 .action{$datestr_sy := now | date "2006-01-02"}
-# {: custom-reflection=".action{$datestr_sy}" }
-
-weekly reflection
+# .action{$datestr_sy} ~ weekly
 
 ## pause and think:
 
@@ -20,5 +18,3 @@ weekly reflection
 ### your failures, or life lessons you learnt
 ### your mood and emotions lately - why do you feel this way?
 ### things you are grateful for, or new things you own
-
-
