@@ -20,7 +20,9 @@
     "openCollective": "",
     "patreon": "",
     "github": "",
-    "custom": "https://lastgenerationz.github.io"
+    "custom": [
+      "https://lastgenerationz.github.io"
+    ]
   },
   "keywords": [
     "reflection","improvement","daily","weekly","monthly"
