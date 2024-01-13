@@ -3,7 +3,7 @@
 
 ## make a list of:
 
-### make a list of important dates this month. why are they important?
+### important dates this month and why they are important
 ### your greatest achievements
 ### your new skills
 ### your new passions

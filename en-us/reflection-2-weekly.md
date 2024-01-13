@@ -12,7 +12,7 @@
 ### things that made you excited
 ### things that you are passionate about
 ### things that keep you happy and sane
-### things that made you stressed angry
+### things that made you stressed or angry
 ### new things you did this week.
 ### your achievements
 ### your failures, or life lessons you learnt
