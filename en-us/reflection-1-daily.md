@@ -1,5 +1,4 @@
-.action{$datestr_sy := now | date "2006-01-02"}
-# .action{$datestr_sy} ~ daily
+# ~ daily
 
 ## what made you excited or passionate today?
 ## what did you read or learn today?

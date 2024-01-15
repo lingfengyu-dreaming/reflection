@@ -1,5 +1,4 @@
-.action{$datestr_sy := now | date "2006-01-02"}
-# .action{$datestr_sy} ~ weekly
+# ~ weekly
 
 ## pause and think:
 

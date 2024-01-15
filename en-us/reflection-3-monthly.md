@@ -1,5 +1,4 @@
-.action{$datestr_sy := now | date "2006-01-02"}
-# .action{$datestr_sy} ~ monthly
+# ~ monthly
 
 ## make a list of:
 
