@@ -5,13 +5,16 @@
   "version": "1.0.5",
   "minAppVersion": "2.0.0",
   "displayName": {
-    "default": "reflection"
+    "default": "reflection",
+    "zh_CN": "反思"
   },
   "description": {
-    "default": "reflect on your life"
+    "default": "reflect on your life",
+    "zh_CN": "反思你的生活"
   },
   "readme": {
-    "default": "README.md"
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
   },
   "funding": {
     "openCollective": "",
